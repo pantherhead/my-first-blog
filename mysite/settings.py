@@ -25,7 +25,7 @@ SECRET_KEY = 'monislm&7xz!=*ke%x*g1w1jh+p75l2d4!r1gcj41y6g!)i1g!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','pipboy9000.home']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','pipboy9000.home','.pythonanywhere.com']
 
 
 # Application definition
